@@ -1,0 +1,18 @@
+:root {
+  --ncc-red: #d61b23;
+  --ncc-navy: #0b1a64;
+  --ncc-blue: #5f98c9;
+  --ncc-gold: #f3c24a;
+  --ncc-cream: #fff6e6;
+
+  --primary: var(--ncc-navy);
+  --secondary: var(--ncc-blue);
+  --accent: var(--ncc-red);
+  --highlight: var(--ncc-gold);
+  --muted: #6b7280;
+  --bg: var(--ncc-cream);
+  --card: #ffffff;
+  --radius: 10px;
+}
+
+/* Backup of previous styles.css */
